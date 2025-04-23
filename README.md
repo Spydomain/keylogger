@@ -1,4 +1,3 @@
-# keylogger
 Python Keylogger
 This project implements a simple keylogger application in Python, which captures and logs keystrokes. It demonstrates keylogging principles such as input capture, threading for job management, and secure data storage, with a focus on ethical considerations and privacy.
 
@@ -28,8 +27,8 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/python-keylogger.git
-cd python-keylogger
+git clone https://github.com/spidoman/keylogger.git
+cd keylogger
 Install the required Python package:
 
 bash
@@ -85,3 +84,4 @@ User Consent: Always ensure that you have the user’s permission before using a
 Privacy Laws: Be aware of and comply with privacy laws and regulations (such as GDPR, CCPA).
 
 Data Security: Avoid storing captured data in an unencrypted format, and implement proper security measures if using this tool in real-world scenarios.
+
