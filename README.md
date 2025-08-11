@@ -24,26 +24,23 @@ threading - for periodically saving the captured data.
 Steps:
 Clone the repository:
 
-bash
-Copy
-Edit
+```bash
 git clone https://github.com/spidoman/keylogger.git
 cd keylogger
+```
 Install the required Python package:
 
-bash
-Copy
-Edit
+```bash
 pip install pynput
+```
 You are ready to run the script!
 
 Usage
 To run the keylogger, simply execute the keylogger.py file:
 
-bash
-Copy
-Edit
+``` bash
 python keylogger.py
+```
 Keylogger Operation:
 The program will capture all keystrokes and save them into a file named key_log.txt in the current directory.
 
